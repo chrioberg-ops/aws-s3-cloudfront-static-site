@@ -46,3 +46,15 @@ User -> CloudFront CDN -> Private S3 Bucket
 - Securing S3 buckets
 - Configuring HTTPS delivery
 - Basic AWS networking and permissions
+
+
+## Screenshots
+
+### CloudFront Distribution
+![CloudFront](screenshots/cloudfront.png)
+
+### Hosted Website
+![Website](screenshots/webpage.png)
+
+### S3 Bucket
+![S3 Bucket](screenshots/s3bucket.png)
